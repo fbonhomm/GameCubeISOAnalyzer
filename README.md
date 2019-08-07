@@ -1,5 +1,5 @@
 # GameCubeISOAnalyzer
-GameCube ISO Analyzer for linux, MacOS
+GameCube ISO Analyzer for Linux, MacOS
 
 ## Usage
     - python3 sources/main.py [ISO]
